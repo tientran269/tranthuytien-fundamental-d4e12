@@ -1,0 +1,5 @@
+x = input ('enter the Radius')
+Radius = int(x)
+pi = float(3.14)
+area = (pi * (Radius ** 2))
+print ("Area =",area)
